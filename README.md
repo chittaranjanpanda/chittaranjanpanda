@@ -8,9 +8,9 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=chittaranjanpanda&hide_border=true&hide_title=true&theme=react" />
 </a>
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chittaranjanpanda&layout=compact&langs_count=20&hide=SCSS,TSQL,HTML,CSS&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chittaranjanpanda&layout=compact&langs_count=20&hide=SCSS,TSQL,HTML,CSS&theme=algolia)
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=chittaranjanpanda&hide=prs,contribs&count_private=true&show_icons=true&theme=algolia&hide_title=true&include_all_commits=true&hide_border=true&cache_seconds=1800&locale=en)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chittaranjanpanda&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+![![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chittaranjanpanda&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
