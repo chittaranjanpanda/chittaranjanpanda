@@ -4,7 +4,7 @@
 </a>
 
 <a href="https://github.com/chittaranjanpanda">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chittaranjanpanda&layout=compact&langs_count=20&hide=SCSS,TSQL,HTML,CSS&hide_border=true&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chittaranjanpanda&layout=compact&langs_count=20&hide=TSQL&hide_border=true&theme=react" />
 </a>
 
 <a href="https://github.com/chittaranjanpanda">
