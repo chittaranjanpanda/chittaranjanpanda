@@ -1,14 +1,14 @@
  
  <a href="https://github.com/chittaranjanpanda">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chittaranjanpanda&hide=prs,contribs&count_private=true&show_icons=true&theme=algolia&hide_title=true&include_all_commits=true&hide_border=true&cache_seconds=1800&locale=en" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chittaranjanpanda&hide=prs,contribs&count_private=true&show_icons=true&theme=react&hide_title=true&include_all_commits=true&hide_border=true&cache_seconds=1800&locale=en" />
 </a>
 
 <a href="https://github.com/chittaranjanpanda">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chittaranjanpanda&layout=compact&langs_count=20&hide=SCSS,TSQL,HTML,CSS&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chittaranjanpanda&layout=compact&langs_count=20&hide=SCSS,TSQL,HTML,CSS&theme=react" />
 </a>
 
 <a href="https://github.com/chittaranjanpanda">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=chittaranjanpanda&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=chittaranjanpanda&theme=react" />
 </a>
 
 
