@@ -1,10 +1,10 @@
  
  <a href="https://github.com/chittaranjanpanda">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chittaranjanpanda&hide=prs,contribs&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&hide_border=true&cache_seconds=1800&locale=en&theme=react" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=chittaranjanpanda&hide=prs,contribs&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&hide_border=true&cache_seconds=1800&locale=en&theme=react" />
 </a>
 
 <a href="https://github.com/chittaranjanpanda">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chittaranjanpanda&layout=compact&langs_count=20&hide=TSQL&hide_border=true&theme=react" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chittaranjanpanda&layout=compact&langs_count=20&hide=TSQL&hide_border=true&theme=react" />
 </a>
 
 <a href="https://github.com/chittaranjanpanda">
