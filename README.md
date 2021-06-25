@@ -2,6 +2,7 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pandaind&hide=prs,contribs&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&hide_border=true&cache_seconds=1800&locale=en&theme=react)
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pandaind&hide_border=true&cache_seconds=1800&hide_title=false&theme=react&custom_title=This+week+I+spent+my+time+on)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=pandaind&theme=onedark&rank=A,AA)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
