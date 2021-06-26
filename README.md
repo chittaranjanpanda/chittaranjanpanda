@@ -1,5 +1,5 @@
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=pandaind&hide_border=true&cache_seconds=1800&hide_title=false&theme=react&custom_title=This+week+I+spent+my+time+on"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=pandaind&hide_border=true&cache_seconds=1800&hide_title=false&theme=react&custom_title=Last+7+days"/>
 
 <!--
 **chittaranjanpanda/chittaranjanpanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
