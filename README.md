@@ -4,8 +4,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pandaind&theme=onedark&rank=A,AA)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img src="https://wakatime.com/share/@pandaind/e4114aed-b101-4b9d-816f-adc619aeb435.svg" />
-
 
 <!--
 **chittaranjanpanda/chittaranjanpanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
